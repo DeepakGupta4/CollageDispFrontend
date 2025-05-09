@@ -70,17 +70,18 @@ const Header = (props) => {
                     <img className='header-college-details-left-logo' src='https://tse3.mm.bing.net/th/id/OIP.HQTtZzKIZxQrMW3gtiRHBwAAAA?rs=1&pid=ImgDetMain' alt='colegeLogo' />
                     <div>
                         <div className='header-college-details-name'>राष्ट्रीय प्रौद्योगिकी संस्थान,</div>
-                        <div className='header-college-details-place'>उत्तराखंड </div>
-                        <div className='header-college-details-name'>National Institute of Technology, </div>
-                        <div className='header-college-details-place'>Uttrakhand </div>
+                        <div className='header-college-details-place'>भोपाल </div>
+                        <div className='header-college-details-name'>SAM Global University, </div>
+                        <div className='header-college-details-place'>Bhopal </div>
                     </div>
                 </div>
                 <div className='header-college-details-right'>
                     <div className='header-college-social-media'>
-                        <a target='_blank' href='https://www.youtube.com/@nationalinstituteoftechnol7593'><img src='https://cdn-icons-png.flaticon.com/128/3670/3670147.png' className='header-social-media-image' /></a>
-                        <a target='_blank' href='https://www.facebook.com/nitukofficial/'><img src='https://cdn-icons-png.flaticon.com/128/733/733547.png' className='header-social-media-image' /></a>
-                        <a target='_blank' href='https://x.com/NIT_Uttarakhand'><img src='https://cdn-icons-png.flaticon.com/128/5968/5968830.png' className='header-social-media-image' /></a>
-                        <a target='_blank' href='https://www.instagram.com/nitukofficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=='><img src='https://th.bing.com/th/id/OIP.0wjhvLpjGf_-r-1lqG3QAQHaHw?rs=1&pid=ImgDetMain' className='header-social-media-image' /></a>
+                    <a target='_blank' href='https://www.samglobaluniversity.ac.in/'><img src='https://e7.pngegg.com/pngimages/4/706/png-clipart-web-development-computer-icons-domain-name-website-text-logo-thumbnail.png' className='header-social-media-image' /></a>
+                        <a target='_blank' href='https://www.youtube.com/c/SAMGLOBALUNIVERSITY'><img src='https://cdn-icons-png.flaticon.com/128/3670/3670147.png' className='header-social-media-image' /></a>
+                        <a target='_blank' href='https://www.facebook.com/samglobaluniversity/'><img src='https://cdn-icons-png.flaticon.com/128/733/733547.png' className='header-social-media-image' /></a>
+                        <a target='_blank' href='https://x.com/samglobalunibpl'><img src='https://cdn-icons-png.flaticon.com/128/5968/5968830.png' className='header-social-media-image' /></a>
+                        <a target='_blank' href='https://www.instagram.com/samglobaluniversity/?hl=en'><img src='https://th.bing.com/th/id/OIP.0wjhvLpjGf_-r-1lqG3QAQHaHw?rs=1&pid=ImgDetMain' className='header-social-media-image' /></a>
                     </div>
                     <input type='text' className='header-input-tags' />
 

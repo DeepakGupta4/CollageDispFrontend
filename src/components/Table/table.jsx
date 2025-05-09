@@ -55,14 +55,6 @@ const CustomTable = ({ headers, data }) => {
                                     }
 
                                 </StyledTableRow>
-                                
-                                // <StyledTableRow key={index}>
-
-                                //     <StyledTableCell >{item.name}</StyledTableCell>
-                                //     <StyledTableCell >{"HOD Health issue"}</StyledTableCell>
-                                //     <StyledTableCell >{"hod@nitUk@gmail.com"}</StyledTableCell>
-                                //     <StyledTableCell >{"+917296954180"}</StyledTableCell>
-                                // </StyledTableRow>
 
                             );
                         })

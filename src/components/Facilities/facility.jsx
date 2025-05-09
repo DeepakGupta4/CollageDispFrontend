@@ -30,7 +30,7 @@ const Facility = (props) => {
         <div className='facilities'>
             <ToastContainer />
             <div className='facility-header'>
-                List of facilities available at NIT HEALTH CENTRE:
+                List of facilities available at SAM HEALTH CENTRE:
             </div>
             <div className='facility-lists'>
                 {
