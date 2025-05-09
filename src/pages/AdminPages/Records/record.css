@@ -1,0 +1,42 @@
+.records{
+    background-color: whitesmoke;
+    padding: 60px 100px;
+}
+
+.record-date-block{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.record-date-year{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.record-year{
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid;
+
+    &:hover{
+        background-color: #255674;
+        color: white;
+        cursor: pointer;
+    }
+}
+
+.activeYear{
+    background-color: #255674;
+    color: white;
+}
+
+.record-col-4{
+    width: 100px !important;
+}
+
+.card-record{
+    width: 60%;
+}

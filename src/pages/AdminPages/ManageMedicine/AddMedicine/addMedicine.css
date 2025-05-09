@@ -1,0 +1,28 @@
+.add-medicine{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0;
+    background-color: rgba(0,0,0,0.6);
+}
+
+.add-medicine-card{
+    width: 50%;
+    background-color: white;
+    height: fit-content;
+    margin-top: 40px;
+    padding: 30px;
+}
+
+.add-medicine-header{
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    font-weight: 600;
+    color: #255674;
+    margin-bottom: 30px;
+}

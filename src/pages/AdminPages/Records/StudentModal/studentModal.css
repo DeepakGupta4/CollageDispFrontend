@@ -1,0 +1,33 @@
+.student-modal-body-student{
+    margin-top: 20px;
+}
+
+.student-details-scroll{
+    max-height: 450px;
+    min-height: 100px;
+    overflow-y: auto;
+
+}
+.student-modal-report{
+    margin:20px 0;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.add-facility-card-student{
+    width: 50%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    height: fit-content;
+    margin-top: 50px;
+}
+.closeF-modal-report{
+    display: flex;
+    align-items: center;
+    &:hover{
+        background-color: #2c98dc;
+        color: white;
+        border-radius: 4px;
+    }
+}

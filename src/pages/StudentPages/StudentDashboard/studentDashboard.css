@@ -1,0 +1,29 @@
+
+.student-dashboard{
+    padding: 60px 100px;
+
+}
+.welcone-user{
+    font-size: 26px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    width: fit-content;
+    padding: 10px 20px;
+    border-radius: 5px;
+    user-select: none;
+}
+.welcone-user span{
+    color: #255674;
+    font-size: 30px;
+}
+
+.student-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.student-dash{
+    width: 30%;
+}
+.eye{
+    cursor: pointer;
+}

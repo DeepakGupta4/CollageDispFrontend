@@ -1,0 +1,27 @@
+.manageMedicine{
+    padding: 60px 100px;
+    background-color: whitesmoke;
+
+}
+.manageMedicine-card{
+    background-color: white;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    margin-top: 20px;
+}
+
+.col-1-mng{
+    width: 70px;
+}
+.col-2-mng{
+    width: 200px;
+}
+.col-3-mng{
+    width: 80px;
+}
+.col-4-mng{
+    width: 80px;
+}
+.col-5-mng{
+    width: 80px;
+}

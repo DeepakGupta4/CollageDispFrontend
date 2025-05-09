@@ -1,0 +1,19 @@
+.add-facility{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    display: flex;
+    justify-content: center;
+}
+
+.add-facility-card{
+    width: 50%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    height: fit-content;
+    margin-top: 100px;
+}
