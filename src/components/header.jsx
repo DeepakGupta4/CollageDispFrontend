@@ -67,7 +67,7 @@ const Header = (props) => {
             {/* top header */}
             <div className='header-college-details'>
                 <div className='header-college-details-left'>
-                    <img className='header-college-details-left-logo' src='https://tse3.mm.bing.net/th/id/OIP.HQTtZzKIZxQrMW3gtiRHBwAAAA?rs=1&pid=ImgDetMain' alt='colegeLogo' />
+                    <img className='header-college-details-left-logo' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHULfuWxo8fbzkVJ9MfHBe2fdwn0Uhp7IElg&s' alt='colegeLogo' />
                     <div>
                         <div className='header-college-details-name'>राष्ट्रीय प्रौद्योगिकी संस्थान,</div>
                         <div className='header-college-details-place'>भोपाल </div>
@@ -140,7 +140,7 @@ const Header = (props) => {
 
             {
                 location.pathname === '/' ? <div className='header-banner'>
-                    <img src={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV0JtwxcjNmUy0HNfNwUA4bbdNgAExlepqgG2yDgpKR2emOMi79JnaSHAFMHp5FAWbhrA&usqp=CAU"} className='header-banner-image' />
+                    <img src={"https://shikshahub.com/uploads/sliders/7912.jpg"} className='header-banner-image' />
                 </div> : null
             }
 
