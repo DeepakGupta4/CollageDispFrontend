@@ -26,7 +26,6 @@ const Footer = () => {
             <a href='https://www.samglobaluniversity.ac.in/register-grievance/' target='_blank'>Grievance Cell</a>
             <a href='https://www.samglobaluniversity.ac.in/contact/' target='_blank'>Contact Us</a>
             <a href='https://www.samglobaluniversity.ac.in/' target='_blank'>College Official Website</a>
-
         </div>
         <div className='footer-right'>
           <div className='footer-right-name'><CloudIcon /> SAM Global University Bhopal</div>
